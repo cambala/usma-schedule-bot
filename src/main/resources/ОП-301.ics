@@ -1,0 +1,141 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//USMA Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание ОП-301
+X-WR-TIMEZONE:America/New_York
+
+## ПОНЕДЕЛЬНИК
+
+BEGIN:VEVENT
+DTSTAMP:20250507T180000Z
+DTSTART:20250507T180000Z
+DTEND:20250507T193000Z
+SUMMARY:Пропедевтика внутренних болезней (Лекция)
+LOCATION:Онлайн
+DESCRIPTION:Преподаватель: Морозова Татьяна Станиславовна\nСсылка: https://teams.microsoft.com/l/meetup-join/19%3a7rfuMtquc53_NCWis4ypUqpyYj3g3xhaJN3h8elVn7g1%40thread.tacv2/1745237099556?context=%7b%22Tid%22%3a%22ca4aca9b-9499-49ae-b933-24c1f082ddf8%22%2c%22Oid%22%3a%22b035933b-abd5-438b-ac1c-f4054ed49f7c%22%7d
+UID:op301_1@example.com
+END:VEVENT
+
+## ВТОРНИК
+
+BEGIN:VEVENT
+DTSTAMP:20250508T085000Z
+DTSTART:20250508T085000Z
+DTEND:20250508T102000Z
+SUMMARY:Фармакология
+LOCATION:Ключевская 17\, корпус 3\, 3 этаж\, Аудитория 301
+DESCRIPTION:Кафедра фармакологии и клинической фармакологии\nПреподаватель: Изможерова Надежда Владимировна
+UID:op301_2@example.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP:20250508T121000Z
+DTSTART:20250508T121000Z
+DTEND:20250508T134000Z
+SUMMARY:Оказание помощи детям при травмах на догоспитальном этапе
+LOCATION:ГКБ №7\, Вилонова 33\, корпус 2\, Аудитория 201
+DESCRIPTION:Кафедра детской хирургии\nПреподаватель: Цап Наталья Александровна
+UID:op301_3@example.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP:20250508T180000Z
+DTSTART:20250508T180000Z
+DTEND:20250508T193000Z
+SUMMARY:Редкие болезни в практике педиатра
+LOCATION:Онлайн
+DESCRIPTION:Преподаватель: Вахлова Ирина Вениаминовна\nСсылка: https://teams.microsoft.com/l/meetup-join/19:yjawYHcMIDgGjo8tQJxzEkQI4sJ75F2B5nTPeIGnj2E1@thread.tacv2/1744720857885?context=%7B%22Tid%22:%22ca4aca9b-9499-49ae-b933-24c1f082ddf8%22,%22Oid%22:%22eb81a276-4ccf-4845-9702-ef426d30f47f%22%7D
+UID:op301_4@example.com
+END:VEVENT
+
+## СРЕДА
+
+BEGIN:VEVENT
+DTSTAMP:20250509T085000Z
+DTSTART:20250509T085000Z
+DTEND:20250509T102000Z
+SUMMARY:Патофизиология (Лекция)
+LOCATION:Ключевская 17\, корпус 3\, Аудитория М4
+DESCRIPTION:Кафедра патологической физиологии\nПреподаватель: Гребнев Дмитрий Юрьевич
+UID:op301_5@example.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP:20250509T103000Z
+DTSTART:20250509T103000Z
+DTEND:20250509T120000Z
+SUMMARY:Патофизиология
+LOCATION:Ключевская 17\, корпус 3\, 4 этаж\, Аудитория 402
+DESCRIPTION:Кафедра патологической физиологии\nПреподаватель: Гребнев Дмитрий Юрьевич
+UID:op301_6@example.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP:20250509T144000Z
+DTSTART:20250509T144000Z
+DTEND:20250509T161000Z
+SUMMARY:Элективные курсы по физкультуре
+LOCATION:Ключевская 17\, корпус 3\, Спортзал
+DESCRIPTION:Кафедра физической культуры\nПреподаватель: Хайрулин Александр Раухатович
+UID:op301_7@example.com
+END:VEVENT
+
+## ЧЕТВЕРГ
+
+BEGIN:VEVENT
+DTSTAMP:20250511T085000Z
+DTSTART:20250511T085000Z
+DTEND:20250511T111000Z
+SUMMARY:Общая хирургия
+LOCATION:ГВВ\, Соболева 25\, Аудитория 203
+DESCRIPTION:Кафедра общей хирургии\nПреподаватель: Чернядьев Сергей Александрович
+UID:op301_8@example.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP:20250511T162000Z
+DTSTART:20250511T162000Z
+DTEND:20250511T175000Z
+SUMMARY:Пропедевтика детских болезней (Лекция)
+LOCATION:ГУК\, Репина 3\, Аудитория М1
+DESCRIPTION:Кафедра факультетской педиатрии и пропедевтики детских болезней\nПреподаватель: Левчук Лариса Васильевна
+UID:op301_9@example.com
+END:VEVENT
+
+## ПЯТНИЦА
+
+BEGIN:VEVENT
+DTSTAMP:20250512T121000Z
+DTSTART:20250512T121000Z
+DTEND:20250512T143000Z
+SUMMARY:Основы формирования здоровья детей
+LOCATION:ОДКБ\, Аудитория 602
+DESCRIPTION:Кафедра факультетской педиатрии и пропедевтики детских болезней\nПреподаватель: Левчук Лариса Васильевна
+UID:op301_10@example.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP:20250512T180000Z
+DTSTART:20250512T180000Z
+DTEND:20250512T193000Z
+SUMMARY:Общая хирургия (Лекция)
+LOCATION:Онлайн
+DESCRIPTION:Преподаватель: Чернядьев Сергей Александрович\nСсылка: https://bbb3.usma.ru/bigbluebutton/api/join?meetingID=0b4d22c8b76a446be2a5068392804dabbd0d60c6-1662-171%5B0%5D&fullName=Елизавета+Олеговна+Михалицына&password=g5reJyEIuHoR&logoutURL=https%3A%2F%2Fedu.usma.ru%2Fmod%2Fbigbluebuttonbn%2Fbbb_view.php%3Faction%3Dlogout%26id%3D72358%26courseid%3D1662&role=VIEWER&userID=20327&guest=false&userdata-bbb_override_default_locale=ru&checksum=e7ce5e2e10eba4deccf2e1784a1c6c987b72f0e371826aeab1d4e53779ce36ea
+UID:op301_11@example.com
+END:VEVENT
+
+## СУББОТА
+
+BEGIN:VEVENT
+DTSTAMP:20250513T085000Z
+DTSTART:20250513T085000Z
+DTEND:20250513T111000Z
+SUMMARY:Пропедевтика детских болезней
+LOCATION:ОДКБ\, Кабинет 306
+DESCRIPTION:Кафедра факультетской педиатрии и пропедевтики детских болезней\nПреподаватель: Левчук Лариса Васильевна
+UID:op301_12@example.com
+END:VEVENT
+
+END:VCALENDAR
